@@ -1,0 +1,36 @@
+Projektausschreibungen (1 BT sind bei uns 8 Stunden, BeraterTag:
+1. Kunde: McKinsey & Co., Projektscope: Konzurrenzenanalyse und Analyse einer Expansion
+auf dem asiatischen Markt. Umfang: 20 BT Gesuchte Positionen: PL (Projektleiter)
+und 2 Pma (Projektmitarbeiter). Bewerbungsfrist: 01.12.21
+
+2. Kunde: ein Start-Up Erdlinks, Projektscope: Erstellung eines Business- und
+Finanzplans für eine Kreditbeantragung. Umfang: 15 BT, Gesuchte Positionen: 1 PL und
+Pma. Bewerbungsfrist: 27.11.21
+
+Schulungen:
+Figma Rechtsanwalt Schulung, Trainer: Vlad Lemberg und Carlos Sulbaran, Niveau: Anfänger, Datum:
+28.11.21 Zeit: 18:00 Ort: TU Berlin
+
+vue.js Schulung, Trainer: Thomas Janke, Niveau: Fortgeschritten, Datum: 01.12.21
+Zeit: 10:00 Ort: online
+
+Workshop:
+Von KPMG und JunITer, Thema: Digitalisierung in der Gesundheitsbranche, Datum: 01.12.21 Zeit: 01:12
+Ort: Hybrid
+
+Sportevents:
+Titel: Fussball, maximale Teilnehmerzahl: 22, Datum: 15.03.2022, Zeit: 13:00, Ort: Tiergarten
+
+Titel: Jogging, maximale Teilnehmerzahl: 10, Datum: 10.03.2022, Zeit: 9:00, Ort: Tiergarten
+
+Bewerbungen:
+Projekt: 123, Stand: Angemerkt.
+
+Projekt: 124, Stand: Beworben.
+
+Projekt: 125, Stand: Abgelehnt.
+
+Anmeldungen:
+Event: 234, Stand: Angemeldet.
+
+Event: 235, Stand: Nicht angemeldet.
