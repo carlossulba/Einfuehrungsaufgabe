@@ -1,0 +1,6 @@
+Die Anwendung ist in zwei Teile geteilt.
+Im ersten Teil verwende ich Java, um die Daten aus "input.txt" zu lesen und im "csv"-Format zu schreiben. Dann speichere ich diese Daten in einer Mysql-Datenbank. 
+Diese finden Sie in "src\main\java\org\example\App.java". 
+
+Im zweiten Teil verwende ich php, um die Daten im Browser anzuzeigen.
+Diese finden Sie in "fronted\index.php".
